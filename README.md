@@ -1,4 +1,4 @@
 # Techdegree-project-1
  First techdegree project
 
-Most of website was provided but CSS and some alterations to personalize the HTML were made by me.
+My first profile page. Basic HTML was provided for home page but I added the pictures, CSS, created CSS animations to make certain elements interactable, customized the information on the main page, and created the linked pages as well.
